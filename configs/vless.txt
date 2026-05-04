@@ -2,6 +2,7 @@ vless://0407e456-1ada-43dd-afb4-78fc6b4a99e7@snapp.ir:80?path=/?ed=2080&security
 vless://0407e456-1ada-43dd-afb4-78fc6b4a99e7@snapp.ir:80?path=/?ed=2080&security=&encryption=none&host=1.jojo.avenflow.ir&type=ws#🇮🇷 IR | 185.143.234.122
 vless://0407e456-1ada-43dd-afb4-78fc6b4a99e7@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#🇮🇷 IR | 185.143.233.122
 vless://0407e456-1ada-43dd-afb4-78fc6b4a99e7@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#🇮🇷 IR | 185.143.234.122
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.30.161:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.30.161
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.19.242:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.184.19.242
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&fp=chrome&type=ws&sni=2026.hhhhh.eu.org#🇨🇦 CA | 172.64.149.54
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#🇨🇦 CA | 172.64.149.54
