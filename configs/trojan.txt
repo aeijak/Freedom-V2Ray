@@ -1,4 +1,4 @@
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev#🇨🇦 CA | 104.21.86.175
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev#🇨🇦 CA | 172.67.223.74
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-2618
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-9080
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@series-v1.samanehha.co:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-8036
@@ -76,7 +76,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@114.33.57.170:443?security=tls&sni=🔒#%F0%9F
 trojan://8r%3C%5B9%27l6hAO%238ZQi@118.39.136.248:20002?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-118.39.136.248-0841
 trojan://8r%3C%5B9%27l6hAO%238ZQi@118.47.197.17:10088?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-118.47.197.17-0844
 trojan://8r%3C%5B9%27l6hAO%238ZQi@121.167.94.122:25448?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-121.167.94.122-0843
-trojan://8r%3C%5B9%27l6hAO%238ZQi@121.170.1.188:32768?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-121.170.1.188-0870
 trojan://8r%3C%5B9%27l6hAO%238ZQi@123.99.111.135:19461?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-123.99.111.135-0837
 trojan://8r%3C%5B9%27l6hAO%238ZQi@128.1.190.67:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-128.1.190.67-1827
 trojan://8r%3C%5B9%27l6hAO%238ZQi@129.212.232.171:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG-129.212.232.171-1811
@@ -190,6 +189,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@59.10.72.49:18852?security=tls&sni=Koma-YT.PAG
 trojan://8r%3C%5B9%27l6hAO%238ZQi@59.11.232.216:28017?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-59.11.232.216-0840
 trojan://8r%3C%5B9%27l6hAO%238ZQi@59.12.232.18:12345?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-59.12.232.18-0872
 trojan://8r%3C%5B9%27l6hAO%238ZQi@59.16.228.103:18469?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-59.16.228.103-0871
+trojan://8r%3C%5B9%27l6hAO%238ZQi@61.72.208.162:32768?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-61.72.208.162-0875
 trojan://8r%3C%5B9%27l6hAO%238ZQi@64.112.127.151:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AASE-64.112.127.151-0877
 trojan://8r%3C%5B9%27l6hAO%238ZQi@64.176.38.23:2083?security=tls&sni=🔒#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.38.23-1803
 trojan://8r%3C%5B9%27l6hAO%238ZQi@64.181.255.215:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-64.181.255.215-1873
@@ -311,6 +311,3 @@ trojan://telegram-id-privatevpns@15.236.112.206:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-v2rayvpnchannel@13.37.76.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.76.238
 trojan://telegram-id-v2rayvpnchannel@15.236.112.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.112.206
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.109-5180
-trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-2473
-trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8866
-trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8862
