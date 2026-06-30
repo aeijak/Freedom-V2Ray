@@ -159,7 +159,6 @@ trojan://Mitivpn@151.101.56.6:443?path=/de&security=tls&alpn=http/1.1&insecure=0
 trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.1&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.6
 trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
 trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
-trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%AD%F0%9F%87%B0HK-1.36.74.208-0184
 trojan://P6oS8vzFbu@45.130.125.2:443?type=ws&security=tls&path=/db&host=sb.farxmode.ir&sni=sb.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#🇸🇨 SC | 45.130.125.2
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7930
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.18-0158
@@ -281,17 +280,15 @@ trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&ho
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&sni=fra154.clientfirewall.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.154-0133
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443/?type=tcp&security=tls&sni=fra250.clientfirewall.click#🇩🇪 DE | 185.137.157.250
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&sni=fra250.clientfirewall.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.250-0134
+trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?type=tcp&security=tls&sni=37.235.49.118#🇮🇸 IS | 37.235.49.118
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&path=%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F&Host=cdn13.cdn2cdn.com#%F0%9F%8F%81RELAY-104.16.123.175-1023
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-3424
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%AA%F0%9F%87%B8ES-103.45.245.208-2499
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.90.197-6153
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-38.60.220.65-0154
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0170
-trojan://telegram-id-directvpn@13.37.121.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.121.12
 trojan://telegram-id-directvpn@13.37.40.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.40.117
-trojan://telegram-id-privatevpns@13.37.121.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.121.12
 trojan://telegram-id-privatevpns@13.37.40.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.40.117
-trojan://telegram-id-v2rayvpnchannel@13.37.121.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.121.12
 trojan://telegram-id-v2rayvpnchannel@13.37.40.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.40.117
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.109-6204
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-92.119.35.105-0136
