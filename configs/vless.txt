@@ -169,7 +169,6 @@ vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇨🇦 CA | 2606:4700:20::ac43:490e
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#🇩🇪 DE | 102.177.176.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-vless://fc41b7b6-f30e-4f42-b676-54ec1e5dde6e@167.233.235.232:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 DE | 167.233.235.232
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇸🇨 SC | 45.130.125.96
 vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@104.16.72.101:443?path=/ws-vlees&security=tls&encryption=none&insecure=0&host=lIVe-1g3MevO1-6iUGBkrj.NEwNEwComPaNyDOM1.info&fp=chrome&type=ws&allowInsecure=0&sni=lIVe-1g3MevO1-6iUGBkrj.NEwNEwComPaNyDOM1.info#🇨🇦 CA | 104.16.72.101
 vless://insta:mahan_vpn.@185.135.9.146:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇩🇪 DE | 185.135.9.146
