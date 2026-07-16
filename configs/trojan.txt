@@ -187,12 +187,14 @@ trojan://MITIVPN@45.130.125.2:443?type=ws&host=De-e-d.App-Cloud.ir&path=/---@MiT
 trojan://MITIVPN@94.140.0.100:443?security=tls&sni=95r.ir&type=ws&path=/MiTiVPN=Usa&Host=95r.ir#%F0%9F%8F%81RELAY-94.140.0.100-0451
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
 trojan://MiTiVPN@104.18.37.237:443?type=ws&host=S-W.MaQror.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Sw&security=tls&fp=chrome&sni=S-o-W.MaQror.ir&alpn=http/1.1#🇨🇦 CA | 104.18.37.237
+trojan://MiTiVPN@104.21.48.168:2053?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl-ss&security=tls&alpn=h2,http/1.1&host=8282-273-3762-183-9.MaqRoR.iR&fp=chrome&type=ws&sni=iri-282-38-38-2.MaqRoR.iR#🇨🇦 CA | 104.21.48.168
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🇨🇦 CA | 188.114.97.6
 trojan://MiTiVPN@45.131.4.118:443?security=tls&sni=95r.ir&type=ws&path=/MiTiVPN=Se&Host=95r.ir#%F0%9F%8F%81RELAY-45.131.4.118-0453
 trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WIN-nl&security=tls&alpn=http/1.1&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&sni=Win-Nll--l.App-Cloud.Ir#🇱🇹 LT | 89.116.250.135
 trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WIN-nl&security=tls&alpn=http/1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#🇱🇹 LT | 89.116.250.135
 trojan://OD90375861@busy-hermit.rooster465.autos:443?security=tls&sni=busy-hermit.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-3.67.171.41-0387
 trojan://OD90375861@together-insect.rooster465.autos:443?security=tls&sni=together-insect.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-63.180.59.60-3106
+trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%AD%F0%9F%87%B0HK-203.218.181.196-0168
 trojan://PI36027154@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.192.245-0055
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-0150
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7693
@@ -224,11 +226,9 @@ trojan://c68526b9-f9e1-49a3-9711-e57d5c717563@dev.aoliuqu.press:16335?security=t
 trojan://cortex-trojan-2026@152.42.191.178:8443?security=tls&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%ACSG-152.42.191.178-5963
 trojan://dfdse334053vuohm@auto.mhjstudio.ir:443?security=tls&sni=alternative.mhjstudio.ir&type=ws&path=/&Host=alternative.mhjstudio.ir#%F0%9F%8F%81RELAY-108.162.196.71-0494
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.135-0209
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.138-0142
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.140-0145
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.142-0143
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.145-0185
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.149-2191
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.151-0204
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.156-0144
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8907
