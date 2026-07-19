@@ -43,8 +43,6 @@ trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tl
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#%F0%9F%8F%81RELAY-104.21.91.112-5369
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#%F0%9F%8F%81RELAY-172.67.215.250-5370
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#%F0%9F%8F%81RELAY-172.67.215.250-5371
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3840
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-4552
 trojan://8r%3C%5B9%27l6hAO%238ZQi@151.241.215.148:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B9IT-151.241.215.148-2251
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-152.53.200.89-2253
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-91.221.190.80-2250
@@ -85,7 +83,6 @@ trojan://CF68213490@accurate-frog.rooster465.autos:443?security=tls&sni=accurate
 trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls&sni=active-hippo.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.179.167-0222
 trojan://CF68213490@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.235.241-0177
 trojan://CF68213490@adapting-giraffe.rooster465.autos:443?security=tls&sni=adapting-giraffe.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.255.244-0117
-trojan://CF68213490@alert-fish.rooster465.autos:443?security=tls&sni=alert-fish.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.224.40-0146
 trojan://CF68213490@alert-redfish.rooster465.autos:443?security=tls&sni=alert-redfish.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.229.63-0131
 trojan://CF68213490@allowing-halibut.rooster465.autos:443?security=tls&sni=allowing-halibut.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.213.204-0192
 trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-satyr.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.94.34-0200
@@ -128,7 +125,6 @@ trojan://CF68213490@grateful-owl.rooster465.autos:443?security=tls&sni=grateful-
 trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.64.246-0199
 trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls&sni=harmless-lab.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-18.184.4.15-0091
 trojan://CF68213490@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.39.248.52-0186
-trojan://CF68213490@immense-eagle.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.12.84-0223
 trojan://CF68213490@immune-mullet.rooster465.autos:443?security=tls&sni=immune-mullet.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.178.7.201-0179
 trojan://CF68213490@in-oriole.rooster465.autos:443?security=tls&sni=in-oriole.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.198.88.225-0181
 trojan://CF68213490@informed-stud.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-176.34.18.166-0134
@@ -142,17 +138,14 @@ trojan://CF68213490@loyal-molly.rooster465.autos:443?security=tls&sni=loyal-moll
 trojan://CF68213490@lucky-chimp.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.186.237-6046
 trojan://CF68213490@modest-bat.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.142.251.222-0228
 trojan://CF68213490@moral-basilisk.rooster465.autos:443?security=tls&sni=moral-basilisk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.164.105-0225
-trojan://CF68213490@moved-bluegill.rooster465.autos:443?security=tls&sni=moved-bluegill.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.177.136.64-0136
 trojan://CF68213490@musical-manatee.rooster465.autos:443?security=tls&sni=musical-manatee.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.197.36.228-0126
 trojan://CF68213490@musical-terrier.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.216.250-0221
 trojan://CF68213490@nearby-egret.rooster465.autos:443?security=tls&sni=nearby-egret.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.102.210-0157
-trojan://CF68213490@next-turkey.rooster465.autos:443?security=tls&sni=next-turkey.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.112.1.163-0149
 trojan://CF68213490@noble-tahr.rooster465.autos:443?security=tls&sni=noble-tahr.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.164.154-0151
 trojan://CF68213490@normal-macaque.rooster465.autos:443?security=tls&sni=normal-macaque.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.229.111-0229
 trojan://CF68213490@polite-coyote.rooster465.autos:443?security=tls&sni=polite-coyote.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.251.239.102-0087
 trojan://CF68213490@powerful-troll.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.158.218-0233
 trojan://CF68213490@prime-buzzard.rooster465.autos:443?security=tls&sni=prime-buzzard.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.252.228-0213
-trojan://CF68213490@pure-ram.rooster465.autos:443?security=tls&sni=pure-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.214.88-0191
 trojan://CF68213490@relevant-oryx.rooster465.autos:443?security=tls&sni=relevant-oryx.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.8.215-0207
 trojan://CF68213490@rested-osprey.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.207.214-0153
 trojan://CF68213490@sacred-anemone.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.252.28-0145
@@ -170,7 +163,6 @@ trojan://CF68213490@smooth-hornet.rooster465.autos:443?security=tls&sni=smooth-h
 trojan://CF68213490@smooth-lark.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.46.29-0187
 trojan://CF68213490@star-bluejay.rooster465.autos:443?security=tls&sni=star-bluejay.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.159.219-0193
 trojan://CF68213490@star-cheetah.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.215.94-0118
-trojan://CF68213490@star-dodo.rooster465.autos:443?security=tls&sni=star-dodo.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.196.71.137-0158
 trojan://CF68213490@star-hagfish.rooster465.autos:443?security=tls&sni=star-hagfish.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.239.172-0218
 trojan://CF68213490@star-moray.rooster465.autos:443?security=tls&sni=star-moray.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.149.206-0130
 trojan://CF68213490@steady-prawn.rooster465.autos:443?security=tls&sni=steady-prawn.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.215.200-0127
@@ -211,7 +203,6 @@ trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&in
 trojan://MiTiVPN@45.130.125.207:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=sws-ss&host=s-w--bi--o.aPp-cLoud.IR&sni=S-wd-fu-ao.aPp-cLoud.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇸🇨 SC | 45.130.125.207
 trojan://MiTiVPN@45.131.4.118:443?security=tls&sni=95r.ir&type=ws&path=/MiTiVPN=Se&Host=95r.ir#%F0%9F%8F%81RELAY-45.131.4.118-0489
 trojan://NQ26071394@accurate-cat.rooster465.autos:443?security=tls&sni=accurate-cat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.176.217-2316
-trojan://NQ26071394@adapting-spider.rooster465.autos:443?security=tls&sni=adapting-spider.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.181.37.50-2300
 trojan://NQ26071394@alert-wren.rooster465.autos:443?security=tls&sni=alert-wren.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.149.215-0512
 trojan://NQ26071394@allowed-moose.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.16.108-6005
 trojan://NQ26071394@amazing-troll.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.26.223-6007
@@ -266,7 +257,6 @@ trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thank
 trojan://NQ26071394@thorough-foxhound.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.251.27-5880
 trojan://NQ26071394@topical-shark.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.141.242-6044
 trojan://NQ26071394@upright-caribou.rooster465.autos:443?security=tls&sni=upright-caribou.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.197.108.120-0519
-trojan://NQ26071394@warm-bass.rooster465.autos:443?security=tls&sni=warm-bass.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.192.169.230-0421
 trojan://NQ26071394@working-tomcat.rooster465.autos:443?security=tls&sni=working-tomcat.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.145.254-0520
 trojan://OD90375861@busy-hermit.rooster465.autos:443?security=tls&sni=busy-hermit.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-3.67.171.41-0094
 trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-52.212.156.233-0089
@@ -304,6 +294,7 @@ trojan://dfdse334053vuohm@auto.mhjstudio.ir:443?security=tls&sni=alternative.mhj
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.128-0260
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.135-0496
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.142-0258
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.149-2207
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.151-1985
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.156-0259
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-9030
