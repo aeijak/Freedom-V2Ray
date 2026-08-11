@@ -7,6 +7,7 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=g
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-2609
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=blackshadow.dpdns.org&type=ws&path=%2F195.123.218.174-443&Host=blackshadow.dpdns.org#%F0%9F%8F%81RELAY-172.67.174.10-2498
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=support.zoom.us.blackshadow.dpdns.org&type=ws&path=%2F195.123.218.174-443&Host=support.zoom.us.blackshadow.dpdns.org#%F0%9F%8F%81RELAY-172.67.174.10-2494
+trojan://32b2m2w7hsdd93z7@31.76.11.46.cdn-one.org:443?security=tls&sni=31.76.11.46.cdn-one.org&type=grpc&serviceName=/50779/NQmry9z8yR#%F0%9F%87%A9%F0%9F%87%AADE-31.76.11.46-0518
 trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-6137
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-4023
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-3330
@@ -70,7 +71,6 @@ trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnhj.131.pp.ua:443?security=tls#
 trojan://BxceQaOe@16.162.3.11:27161?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.3.11-3300
 trojan://BxceQaOe@16.162.92.128:9408?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.92.128-3302
 trojan://BxceQaOe@18.166.226.204:39024?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-18.166.226.204-3305
-trojan://BxceQaOe@95.40.53.193:41421?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.53.193-3304
 trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-34.223.2.163-6264
 trojan://CF68213490@adapting-giraffe.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.84.244-6240
 trojan://CF68213490@alert-redfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.239.7-6237
