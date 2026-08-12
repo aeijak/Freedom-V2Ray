@@ -5,6 +5,7 @@ trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8964
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8966
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-2622
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444/?type=tcp&security=tls&sni=ggboy.ggboyz.online#🇺🇸 US | 45.143.128.79
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=blackshadow.dpdns.org&type=ws&path=%2F195.123.218.174-443&Host=blackshadow.dpdns.org#%F0%9F%8F%81RELAY-104.21.88.77-2506
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=support.zoom.us.blackshadow.dpdns.org&type=ws&path=%2F195.123.218.174-443&Host=support.zoom.us.blackshadow.dpdns.org#%F0%9F%8F%81RELAY-172.67.174.10-2458
 trojan://32b2m2w7hsdd93z7@31.76.11.46.cdn-one.org:443?security=tls&sni=31.76.11.46.cdn-one.org&type=grpc&serviceName=/50779/NQmry9z8yR#%F0%9F%87%A9%F0%9F%87%AADE-31.76.11.46-0517
@@ -232,7 +233,6 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?secu
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0306
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-3462
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8970
-trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8972
 trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@5344gt5.cloudflare.182682.xyz:443?security=tls&sni=ttt1.ttttlefjljl.xyz&type=ws&path=%2Fimages&Host=ttt1.ttttlefjljl.xyz#%F0%9F%8F%81RELAY-104.21.224.5-2479
 trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@aeryy5gfrp630ww1.lovebaipiao.net:443?security=tls&sni=aeryy5gfrp630ww1.lovebaipiao.net&type=ws&path=%2Fimages&Host=aeryy5gfrp630ww1.lovebaipiao.net#%F0%9F%87%B7%F0%9F%87%BARU-45.9.15.188-2477
 trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@cdn2.bpcdn.cc:443?security=tls&sni=ehofhoe.bpuk2026.top&type=ws&path=%2Fimages&Host=ehofhoe.bpuk2026.top#%F0%9F%8F%81RELAY-104.18.41.190-2483
