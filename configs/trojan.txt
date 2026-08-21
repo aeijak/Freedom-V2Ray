@@ -67,8 +67,6 @@ trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tl
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#%F0%9F%8F%81RELAY-172.67.215.250-5224
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#%F0%9F%8F%81RELAY-172.67.215.250-5225
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#%F0%9F%8F%81RELAY-104.21.91.112-5226
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3695
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-4407
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.59.186-7778
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.24-3520
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.25-3860
@@ -286,6 +284,7 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@149.28.21.106:443?security=tls&sni
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@150.230.212.247:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.212.247-0751
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@150.230.249.88:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%B0%F0%9F%87%B7KR-150.230.249.88-0824
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@152.70.254.197:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#%F0%9F%87%B0%F0%9F%87%B7KR-152.70.254.197-0820
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@153.121.32.71:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.32.71-0795
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@153.121.76.150:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.76.150-0747
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.22.175:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8US-154.17.22.175-0707
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.6.184:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8US-154.17.6.184-0742
