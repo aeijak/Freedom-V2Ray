@@ -103,7 +103,6 @@ trojan://CF68213490@ultimate-jaguar.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-7455
 trojan://EQ30679154@definite-gazelle.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.252.205-5064
 trojan://EQ30679154@well-goshawk.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-34.255.124.67-5121
-trojan://HW85960347@firm-squid.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.6-5132
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-1180
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.113.142-4966
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.69.162-5040
