@@ -65,7 +65,6 @@ vless://7d12caa2-43e0-45d2-8636-08b342615c7b@104.17.72.206:443?path=/&security=t
 vless://7d12caa2-43e0-45d2-8636-08b342615c7b@172.64.149.54:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=clod.pedramhost.shop#🇨🇦 CA | 172.64.149.54
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=firefox&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#🇫🇷 FR | 152.228.139.33
-vless://8263aa5b-601d-4e05-b61d-a70e15d97869@45.198.0.88:443?security=reality&encryption=none&pbk=GG5vpbtQpYpZkAa3qQfLe3f9kzym3EU5t8_MYUkX_z0&host=/?Telegram---Lent_Gc---Lent_Gc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl1.edge.rbullet.net&sid=458374ae#🇵🇱 PL | 45.198.0.88
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://83adcc98-ac23-4e51-9ae0-788a73fd9939@104.17.163.123:8443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net#🇨🇦 CA | 104.17.163.123
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@81.17.154.97:443?mode=auto&path=/ccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&allowInsecure=0&sni=is-tw-relay.cdn.cachefleet.com#🇷🇺 RU | 81.17.154.97
@@ -117,9 +116,6 @@ vless://e3425eb4-e9be-4568-8740-529a031c9315@199.232.78.159:443?pcs=CD6E838B9BFE
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.132.84:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.39.132.84
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.132.84:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.39.132.84
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.132.84:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.39.132.84
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.42.143:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.224.42.143
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.42.143:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.224.42.143
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.42.143:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.224.42.143
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&security=tls&sni=lucasjow.us.ci&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+udp://8.8.8.8&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip?ed#🇨🇦 CA | 172.67.155.65
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/cart/docs/www/proxyip&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇨🇦 CA | 188.114.97.6
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
